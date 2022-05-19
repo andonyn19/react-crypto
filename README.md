@@ -1,6 +1,8 @@
-# React Crypto
+# React Crypto App
 
-React Crypto app with search bar.
+React Crypto app with searching bar.
+
+Link : [react-crypto-app.pages.dev] (https://react-crypto-app.pages.dev/)
 
 - Functional Components.
 - Destructuring props.
