@@ -1,8 +1,11 @@
 # React Crypto
 
-I recommend to watch on desktop.
+React Crypto app with search bar.
 
-
+- Functional Components.
+- Destructuring props.
+- Hooks (useState, useEffect).
 - CoinGecko API (fetch() method).
 - Bootstrap.
-- Array map & filter.
+- Array map.
+- Array filter.
