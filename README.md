@@ -2,7 +2,7 @@
 
 I recommend to watch on desktop.
 
-What i used:
-- CoinGecko API (fetch).
+
+- CoinGecko API (fetch() method).
 - Bootstrap.
 - Array map & filter.
